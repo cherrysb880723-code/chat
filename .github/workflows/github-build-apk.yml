@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - WorkLifeCalendar-project.zip
+      -SB-Schedule-fixed.zip
       - .github/workflows/build-apk.yml
 
 jobs:
